@@ -1,16 +1,23 @@
-### Hi there 👋
+[Portuguese]
+### Olá : Bem-vindos ao meu perfil ###
 
-<!--
-**ProfBModesto/ProfBModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☻ Meu nome é Bruno Modesto ☻
 
-Here are some ideas to get you started:
+► Professor do Estado de São Paulo na matéria de Tecnologia;
+► Aulas práticas e interativas com a plataforma Alura;
+► Estamos estudando logica no Scratch e programando com JavaScript;
+► E, por fim, estamos usando este espaço para organização e compartilhamento dos projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato: brunomodesto@prof.educacao.sp.gov.br
+
+[English]
+### Hello: Welcome to my profile ###
+
+☻ My name is Bruno Modesto ☻
+
+► Professor at the State of São Paulo in the subject of Technology;
+► Practical and interactive classes with the Alura platform;
+► We are studying logic in Scratch and programming with JavaScript;
+► And, finally, we are using this space to organize and share the projects developed.
+
+Contact: brunomodesto@prof.educacao.sp.gov.br
